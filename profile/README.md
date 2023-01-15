@@ -18,7 +18,7 @@ As-Salam Alaikum!!
 </H1>
 
 <p align="center">
-  <img src="./../SlixonLabel.jpg" style="width:1300px" />
+  <img src="./SlixonLabel.jpg" style="width:1300px" />
 </p>
 
 # I ❤️ Setheum Labs
