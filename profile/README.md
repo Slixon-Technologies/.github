@@ -17,8 +17,6 @@ As-Salam Alaikum!!
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </H1>
 
- <!-- omit in toc -->
-
 <p align="center">
   <img src="./../SlixonLabel.jpg" style="width:1300px" />
 </p>
