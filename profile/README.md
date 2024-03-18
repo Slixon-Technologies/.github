@@ -2,12 +2,6 @@
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
 <H1 align="right">
-Peaceful Hello!
- </br>
- Peace be upon You!!!
- </br>
-As-Salam Alaikum!!
- </br>
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
